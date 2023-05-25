@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode_study.iml" filepath="$PROJECT_DIR$/.idea/leetcode_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../leetcode_study/.idea/算法学习.iml" filepath="$PROJECT_DIR$/../leetcode_study/.idea/算法学习.iml" />
     </modules>
   </component>
 </project>
